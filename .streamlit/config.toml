@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#FF6574"
+backgroundColor = "#101115"
+secondaryBackgroundColor = "#191B21"
+textColor = "#F7F6F2"
+chartCategoricalColors = ["#FF6574", "#C9F27C", "#62C9CA"]
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

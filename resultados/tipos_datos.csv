@@ -1,0 +1,22 @@
+,0
+Unnamed: 0,int64
+track_id,str
+artists,str
+album_name,str
+track_name,str
+popularity,int64
+duration_ms,int64
+explicit,bool
+danceability,float64
+energy,float64
+key,int64
+loudness,float64
+mode,int64
+speechiness,float64
+acousticness,float64
+instrumentalness,float64
+liveness,float64
+valence,float64
+tempo,float64
+time_signature,int64
+track_genre,str

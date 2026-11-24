@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+*.log
+tmp/
+documentacion/
+resultados/sonora*.png
+resultados/filtros_intuitivos.png
+.DS_Store
+Thumbs.db
+~$*
+
+/*.pdf
+/*.docx
